@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning you(very real)
 - 💞️ I’m looking to collaborate on you(what)
 - 📫 How to reach me:
-discord: Zeuroux#5784
+discord: Zeuroux
 
 <!---
 Zeuroux/Zeuroux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
