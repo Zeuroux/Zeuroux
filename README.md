@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=zeuroux&style=for-the-badge&color=blueviolet)<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zeuroux&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Zeuroux&theme=dark&hide_border=false)<br/>
